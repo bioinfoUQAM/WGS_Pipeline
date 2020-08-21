@@ -6,7 +6,7 @@ Professor : Abdoulaye Banire Diallo
 Organisation : Labobioinfo UQAM
 
 #Installation
-##Dependencies
+#Dependencies
 The pipeline depends on usage of python3 in a virtual environment.
 To install the virtual environment you will need python3 installed/loaded if on HPC.
 To load the module on HPC.

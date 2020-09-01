@@ -26,7 +26,7 @@ mamba install -n WGS_Pipeline bioconda::snakemake
 ```
 
 
-# ***Using venv***
+## *Using venv  if needed instead of miniconda*
 To load the module on HPC.
 ```
 module load nixpkgs/16.09 python/3.8.2
@@ -44,3 +44,7 @@ pip3 install -r requirements.txt
 # Usage
 - Examples
 - References (if needed)
+
+# References
+Git tutorial on Snakemake
+https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27

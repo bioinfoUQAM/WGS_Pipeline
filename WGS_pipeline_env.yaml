@@ -1,0 +1,8 @@
+name: WGS_pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  -
+prefix: /home/nicdemon/miniconda3/envs/WGS_pipeline

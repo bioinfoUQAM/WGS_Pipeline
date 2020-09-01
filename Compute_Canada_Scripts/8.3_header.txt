@@ -1,0 +1,10 @@
+##INFO=<ID=CHROM,Number=1,Type=String,Description="Chromosome number">
+##INFO=<ID=FROM,Number=1,Type=Integer,Description="Contig starting position">
+##INFO=<ID=TO,Number=1,Type=Integer,Description="Contig ending position">
+##INFO=<ID=ID,Number=1,Type=String,Description="Contig name, position on chromosome and positions">
+##INFO=<ID=SCORE,Number=1,Type=Character,Description="Contig quality score">
+##INFO=<ID=STRAND,Number=1,Type=Character,Description="Strand quality">
+##INFO=<ID=SOURCE,Number=1,Type=String,Description="Contig source in databases">
+##INFO=<ID=TYPE,Number=1,Type=String,Description="Type of sequencing">
+##INFO=<ID=PHASE,Number=1,Type=Character,Description="Phase of sequencing">
+##INFO=<ID=ATTRIBUTES,Number=1,Type=String,Description="Description of the sequence">
